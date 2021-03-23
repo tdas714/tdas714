@@ -7,7 +7,7 @@
       3. that is very fast and relable like traditional sysytem.
       
 - 💞️ I’m looking to collaborate on blockchain developer, DNN/ML developer, or aynbody who is interested working on above principals.
-- 📫 You can email me tdas714@gmail.com, whatsapp me : +919051047672
+- 📫 You can email me tdas714@gmail.com, twitter: @tapas714
 
 <!---
 tdas714/tdas714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
